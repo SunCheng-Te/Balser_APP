@@ -1,18 +1,7 @@
-﻿using Emgu.CV;
-using Yolov5Net.Scorer.Models;
+﻿using Yolov5Net.Scorer.Models;
 using Yolov5Net.Scorer;
-using SixLabors.ImageSharp.PixelFormats;
-using SixLabors.ImageSharp;
-using Emgu.CV.Structure;
-using Emgu.CV.CvEnum;
-using System.Text.RegularExpressions;
-using System.Windows.Forms;
-using System.Diagnostics;
-using Basler.Pylon;
-using System.Drawing;
 using System.Drawing.Imaging;
 using PUDemo;
-using Emgu.CV.Face;
 
 namespace DialDemo
 {
